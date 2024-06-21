@@ -6,7 +6,7 @@
 <h2 width="100%"><img width="25" src="" /> Hi guys 👋 <img align="right" src="https://komarev.com/ghpvc/?username=Bahirumulugeta&label=Profile%20views&color=0e75b6&style=flat" alt="bahiru" /> 
  </h2>
  
- ![github-header-image (2)]([https://github.com/ewriq/ewriq/assets/102306313/03fa2cea-716a-47ed-9909-61efec0ce730](https://private-user-images.githubusercontent.com/57240268/341705026-148e1486-7d05-49b0-ba23-60d902f2f76f.png))
+ ![github-header-image (2)]([https://private-user-images.githubusercontent.com/57240268/341705026-148e1486-7d05-49b0-ba23-60d902f2f76f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTg5NjA0NjAsIm5iZiI6MTcxODk2MDE2MCwicGF0aCI6Ii81NzI0MDI2OC8zNDE3MDUwMjYtMTQ4ZTE0ODYtN2QwNS00OWIwLWJhMjMtNjBkOTAyZjJmNzZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjIxVDA4NTYwMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTcwMjUzZjY0MDdkOGMxZmRkYjY1YTAzZjMxNTc3MTFjNTM1ZjhlZTc0ZDFlMmVmMGM2YmNjNzU0ZTFlOWYzNTgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.olWnSKzyXPmniA9ayd09ClB6pN4Yx6e298ud4stNscs])
 
 
 
